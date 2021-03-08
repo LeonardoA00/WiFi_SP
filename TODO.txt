@@ -7,3 +7,4 @@ INSTALLER
 UNINSTALLER
 - Rimuovere dall'avvio automatico
 - Cancellare i file
+push
