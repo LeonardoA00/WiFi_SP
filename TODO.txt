@@ -1,0 +1,9 @@
+TODO
+
+INSTALLER
+- L'installer deve creare %APPDATA%\CoreTech perchè lo script deve accedere a una directory già esostente
+- Mettere in avvio automatico
+
+UNINSTALLER
+- Rimuovere dall'avvio automatico
+- Cancellare i file
